@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="21"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="55604416151851"
+    token="4180756626387287402"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="265" />
+    <task
+        name="instant-run-dex"
+        duration="698" />
+    <task
+        name="instant-run-transform"
+        duration="44" />
+    <task
+        name="verifier"
+        duration="5" />
+
+    <artifact
+        location="/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="54721663112887"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="54774769869761"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/builds/debug/54774769869761/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="54826686646848"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/builds/debug/54826686646848/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="55604416151851"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

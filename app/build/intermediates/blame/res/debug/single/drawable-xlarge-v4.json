@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/key_regenerate.xml",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable-xlarge/key_regenerate.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/help.xml",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable-xlarge/help.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/key_add.xml",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable-xlarge/key_add.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/key_import.xml",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable-xlarge/key_import.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/logo.xml",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable-xlarge/logo.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/key_export.xml",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable-xlarge/key_export.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/key_delete.xml",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable-xlarge/key_delete.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/settings.xml",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable-xlarge/settings.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/key_edit.xml",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable-xlarge/key_edit.xml"
+    }
+]

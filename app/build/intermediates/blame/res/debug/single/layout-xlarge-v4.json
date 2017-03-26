@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/gen_exist_layout.xml",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/layout-xlarge/gen_exist_layout.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/mainmenu_row.xml",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/layout-xlarge/mainmenu_row.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/sitelist_row.xml",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/layout-xlarge/sitelist_row.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/import_layout.xml",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/layout-xlarge/import_layout.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/main.xml",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/layout-xlarge/main.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/help_layout.xml",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/layout-xlarge/help_layout.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/about_layout.xml",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/layout-xlarge/about_layout.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/settings_layout.xml",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/layout-xlarge/settings_layout.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/export_layout.xml",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/layout-xlarge/export_layout.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/edit_layout.xml",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/layout-xlarge/edit_layout.xml"
+    }
+]

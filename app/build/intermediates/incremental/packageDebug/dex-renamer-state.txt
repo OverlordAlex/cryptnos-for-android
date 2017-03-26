@@ -1,0 +1,7 @@
+#Sun Mar 26 23:55:14 SAST 2017
+base.0=/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5765011660bca1f6192dde85cd6e4b2fa6eaa019
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5589f98eb2e95141572e24b95117026118b67bfd/classes.dex
+base.1=/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5589f98eb2e95141572e24b95117026118b67bfd
+file.0=/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5765011660bca1f6192dde85cd6e4b2fa6eaa019/classes.dex

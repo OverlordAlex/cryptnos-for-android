@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable/key_delete_96.png",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable/key_delete_96.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable/logo_hdpi.png",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable/logo_hdpi.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable/key_add_72.png",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable/key_add_72.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable/key_regenerate_72.png",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable/key_regenerate_72.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable/key_delete.png",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable/key_delete.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable/help_96.png",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable/help_96.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable/key_export_72.png",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable/key_export_72.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable/icon_xhdpi.png",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable/icon_xhdpi.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable/key_regenerate.png",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable/key_regenerate.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable/key_edit_96.png",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable/key_edit_96.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable/key_import_72.png",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable/key_import_72.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable/key_edit.png",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable/key_edit.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable/logo.png",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable/logo.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable/help.png",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable/help.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable/key_add.png",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable/key_add.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable/key_import.png",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable/key_import.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable/settings_xhdpi.png",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable/settings_xhdpi.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable/key_delete_72.png",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable/key_delete_72.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable/key_regenerate_96.png",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable/key_regenerate_96.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable/help_72.png",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable/help_72.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable/settings_72.png",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable/settings_72.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable/key_add_96.png",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable/key_add_96.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable/settings.png",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable/settings.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable/key_export_96.png",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable/key_export_96.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable/logo_xhdpi.png",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable/logo_xhdpi.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable/key_import_96.png",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable/key_import_96.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable/key_edit_72.png",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable/key_edit_72.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable/icon_hdpi.png",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable/icon_hdpi.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable/key_export.png",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable/key_export.png"
+    }
+]

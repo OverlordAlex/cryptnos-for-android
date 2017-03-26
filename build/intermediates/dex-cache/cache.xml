@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="146877a03d16601abd5202b24b81de3c91738440">
+        <dex dex="/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5589f98eb2e95141572e24b95117026118b67bfd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="36d902729fdef9a28bb0f4d0351c5dea340a6632">
+        <dex dex="/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5765011660bca1f6192dde85cd6e4b2fa6eaa019/classes.dex" />
+    </item>
+
+</items>

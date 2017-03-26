@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable-ldpi/key_edit.png",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable-ldpi/key_edit.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable-ldpi/key_delete.png",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable-ldpi/key_delete.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable-ldpi/logo.png",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable-ldpi/logo.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable-ldpi/settings.png",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable-ldpi/settings.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable-ldpi/key_import.png",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable-ldpi/key_import.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable-ldpi/key_regenerate.png",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable-ldpi/key_regenerate.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable-ldpi/help.png",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable-ldpi/help.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable-ldpi/icon.png",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable-ldpi/key_export.png",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable-ldpi/key_export.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/build/intermediates/res/merged/debug/drawable-ldpi/key_add.png",
+        "source": "/home/alex/AndroidStudioProjects/cryptnos-for-android1/app/src/main/res/drawable-ldpi/key_add.png"
+    }
+]
